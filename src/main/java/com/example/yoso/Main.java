@@ -6,6 +6,7 @@ public class Main {
         String hello = "你好 世界！";
         String world = "hello world!";
         System.out.println(hello + "\n" + world);
+        System.out.println("Hello Yoso!");
     }
 
 }
